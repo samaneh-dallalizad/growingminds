@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "client_id": 1,
+    "currency": "EUR",
+    "amount": 20
+  },
+  {
+    "id": 2,
+    "client_id": 1,
+    "currency": "EUR",
+    "amount": 25
+  },
+  {
+    "id": 3,
+    "client_id": 1,
+    "currency": "USD",
+    "amount": 27
+  },
+  {
+    "id": 4,
+    "client_id": 1,
+    "currency": "USD",
+    "amount": 30
+  },
+  {
+    "id": 5,
+    "client_id": 2,
+    "currency": "EUR",
+    "amount": 20
+  },
+  {
+    "id": 6,
+    "client_id": 2,
+    "currency": "EUR",
+    "amount": 25
+  },
+  {
+    "id": 7,
+    "client_id": 2,
+    "currency": "USD",
+    "amount": 27
+  },
+  {
+    "id": 8,
+    "client_id": 2,
+    "currency": "USD",
+    "amount": 30
+  }
+
+]
